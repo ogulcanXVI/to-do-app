@@ -1,6 +1,6 @@
 **To-do App**
 
-Experience it [here][url](https://ogtodos-app.netlify.app/).
+Experience it [here](https://ogtodos-app.netlify.app/).
 
 ![Feb-14-2025 12-09-04](https://github.com/user-attachments/assets/ceb1765c-823c-4055-8583-8550a30af27d)
 
